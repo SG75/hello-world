@@ -6,3 +6,5 @@
 <h3> new line added to test the build via ansible / jenkins pipline </h3> 
 <h6> .... Gururaj </h6>
 <h6> .. checking the automatic build via ansible </h6>
+<h2> --this line added to test the automated deployment from ansible playbook </h2>
+
