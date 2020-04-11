@@ -9,3 +9,6 @@
 <h4> updated ansilble play book to remove old containers </h4>
 
 <hr>
+<h4> updated play book to run webapp on docker host </h4>
+
+<hr>
