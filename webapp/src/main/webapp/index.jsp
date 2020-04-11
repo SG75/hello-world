@@ -2,11 +2,5 @@
 
 <h3> updated by Gururaj </h3>
 
-<h3> new line added to test the build via ansible / jenkins pipline </h3> 
-<h6> .... Gururaj </h6>
-<h6> .. checking the automatic build via ansible </h6>
-<h2> --this line added to test the automated deployment from ansible playbook </h2>
-<h4> -- fixing sudo errors for ansadmin </h4>
-<h1> hello world </h1>
-<hl>
-<h2> this was added via virtualbox vm</h2>
+
+<h3> this line is edited from jenkins server and pushed to github to see the changes on webpage running on a container on ansible server </h3>
