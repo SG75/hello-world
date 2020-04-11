@@ -6,3 +6,6 @@
 <h3> this line is edited from jenkins server and pushed to github to see the changes on webpage running on a container on ansible server </h3>
 <h3> 8:37 AM 11 APril 2020</h3>
 <hr>
+<h4> updated ansilble play book to remove old containers </h4>
+
+<hr>
