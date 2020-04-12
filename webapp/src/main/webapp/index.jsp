@@ -22,3 +22,7 @@ Date 12 april 2020 12 PM
 <h6>  command: kubectl rollout restart deployment.v1.apps/sixco-deployment </h6>
 
 <hr>
+<hr>
+<p> 
+  updated this line to check creation of new PODs </p>
+<hr>
