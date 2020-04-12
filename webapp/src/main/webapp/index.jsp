@@ -17,3 +17,8 @@
 
 Date 12 april 2020 12 PM
 <hr>
+<p> adding this line to k8s-sixco-deploy.yml </P>
+
+<h6>  command: kubectl rollout restart deployment.v1.apps/sixco-deployment </h6>
+
+<hr>
