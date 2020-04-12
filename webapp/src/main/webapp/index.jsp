@@ -12,3 +12,8 @@
 <h4> updated play book to run webapp on docker host </h4>
 
 <hr>
+
+<h3> Deploying on K8s using ansible </h3>
+
+Date 12 april 2020 12 PM
+<hr>
